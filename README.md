@@ -1,2 +1,4 @@
-# moment-of-death
+the-moment-of-dead
+==================
+
 bullet: seconds | vernietigingskamp: years
